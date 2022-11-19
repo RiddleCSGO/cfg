@@ -39,7 +39,7 @@ This Config is for German Keyboard Layout!
 
 1440x1080 4:3 stretched, 1.2 sensitivity, 800DPI, 1000Hz, Win 4/11, Acc off 
 
-Launch Options: -no-browser -tickrate 128 -novid -language riddle
+Launch Options: -no-browser -novid -language riddle
 
 ------------------------------------------------------------------
 
@@ -57,13 +57,13 @@ NVidia Control Panel Settings in file misc/NCPS.txt
 
 Monitor Settings in misc/MonitorSettings.txt
 
-Ulletical FPS Benchmark (All Settings Highest, No AA): ~650FPS @64 Tickrate / ~500FPS @128 Tickrate
+Ulletical FPS Benchmark (All Settings Highest): ~700FPS @64 Tickrate / ~550FPS @128 Tickrate
 
 ------------------------------------------------------------------
 
 Specs:
 
-CPU: 			Ryzen 5 3600
+CPU: 			Ryzen 5 5600x
 
 MB: 			MSI B450 Tomahawk Max
 
@@ -95,7 +95,7 @@ MONITOR: 		BenQ Zowie XL2546K
 
 KB: 			Sharkoon Skiller Mech RGK3 with Red Kailh Switches
 
-MOUSE: 			Endgame Gear XM1r White
+MOUSE: 			Endgame Gear XM1r 
 
 BUNGEE: 		Razer Mouse Bungee V2
 
