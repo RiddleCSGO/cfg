@@ -103,4 +103,4 @@ BUNGEE: 		Razer Mouse Bungee V2
 
 PAD: 			Artisan Hien Soft XL Black
 
-OS: 			Windows 10 Pro 21H2
+OS: 			Windows 10 Pro 22H2
