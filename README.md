@@ -15,7 +15,7 @@ you can find [your steam number] by opening Steam -> [your name] -> Inventory ->
 
 ------------------------------------------------------------------
 
-Copy  the csgo_riddle.txt language file to:
+Copy the csgo_riddle.txt language file to:
 
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 
@@ -90,6 +90,8 @@ SOUNDCARD: 		Native Instruments Komplete Audio 6
 HEADPHONES: 	Beyerdynamic DT 990 Pro 250 Ohm
 
 MIC: 			Studio Projects B1
+
+HEADSET:		HyperX Cloud Alpha
 
 MONITOR: 		BenQ Zowie XL2546K
 
