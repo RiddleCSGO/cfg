@@ -39,7 +39,7 @@ This Config is for German Keyboard Layout!
 
 1440x1080 4:3 stretched, 1.2 sensitivity, 800DPI, 1000Hz, Win 4/11, Acc off 
 
-Launch Options: -no-browser -novid -language riddle
+Launch Options: -tickrate 128 -novid -no-browser -language riddle
 
 ------------------------------------------------------------------
 
