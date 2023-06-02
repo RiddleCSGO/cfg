@@ -57,6 +57,10 @@ NVidia Control Panel Settings in file misc/NCPS.txt
 
 Monitor Settings in misc/MonitorSettings.txt
 
+Wooting Settings: 64d2ec1492d958c2590d6ab87407bc27371b
+
+Mouse Settings in misc
+
 Ulletical FPS Benchmark (All Settings Highest): ~700FPS @64 Tickrate / ~550FPS @128 Tickrate
 
 ------------------------------------------------------------------
@@ -93,9 +97,11 @@ MIC: 			Studio Projects B1
 
 HEADSET:		HyperX Cloud Alpha
 
+WEBCAM:			Elgato Facecam
+
 MONITOR: 		BenQ Zowie XL2546K
 
-KB: 			Sharkoon Skiller Mech RGK3 with Red Kailh Switches
+KEYBOARD: 		Wooting Two HE
 
 MOUSE: 			Endgame Gear XM1r 
 
